@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://berkeurun.github.io/sonpost/static/css/main.3c20abf2.chunk.css",
+    "main.js": "https://berkeurun.github.io/sonpost/static/js/main.83ee8599.chunk.js",
+    "main.js.map": "https://berkeurun.github.io/sonpost/static/js/main.83ee8599.chunk.js.map",
+    "runtime-main.js": "https://berkeurun.github.io/sonpost/static/js/runtime-main.c6854aa4.js",
+    "runtime-main.js.map": "https://berkeurun.github.io/sonpost/static/js/runtime-main.c6854aa4.js.map",
+    "static/css/2.818011ed.chunk.css": "https://berkeurun.github.io/sonpost/static/css/2.818011ed.chunk.css",
+    "static/js/2.654c4bb7.chunk.js": "https://berkeurun.github.io/sonpost/static/js/2.654c4bb7.chunk.js",
+    "static/js/2.654c4bb7.chunk.js.map": "https://berkeurun.github.io/sonpost/static/js/2.654c4bb7.chunk.js.map",
+    "index.html": "https://berkeurun.github.io/sonpost/index.html",
+    "static/css/2.818011ed.chunk.css.map": "https://berkeurun.github.io/sonpost/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.3c20abf2.chunk.css.map": "https://berkeurun.github.io/sonpost/static/css/main.3c20abf2.chunk.css.map",
+    "static/js/2.654c4bb7.chunk.js.LICENSE.txt": "https://berkeurun.github.io/sonpost/static/js/2.654c4bb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6854aa4.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.654c4bb7.chunk.js",
+    "static/css/main.3c20abf2.chunk.css",
+    "static/js/main.83ee8599.chunk.js"
+  ]
+}
